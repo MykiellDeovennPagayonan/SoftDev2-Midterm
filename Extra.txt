@@ -1,0 +1,10 @@
+Team Rating:
+Rate your knowledge on the subject matter - 3
+Rate your contribution on this exam - 4 (I went solo)
+
+Cite a mistake on this exam (except for grammatical errors):
+When changing leaders the position that the leaders are running is the same as the one they currently have
+There is no argument in the changeLeader() method when there is a tie.
+
+Is it possible sir to defend my work on Sunday April 30 or Monday April 31, or perhaps wednesday, thursday, or friday morning next week (May 3, 4, 5)?
+
